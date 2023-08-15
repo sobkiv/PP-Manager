@@ -8,17 +8,23 @@
   margin-bottom: 48px;
 }
 
+.reverse {
+  flex-direction: row-reverse;
+}
+
 .text-wrapper {
   max-width: 493px;
 }
 
 .feature-title {
+  margin: 0;
   font-size: 32px;
   font-weight: 700;
   line-height: 40px;
 }
 
 .feature-text {
+  margin: 0;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
