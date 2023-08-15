@@ -1,0 +1,40 @@
+.first-image-container {
+  width: 614.97px; height: 358.25px;
+}
+
+.background-part {
+  position: relative;
+  margin-top: 19px;
+  left: 41px;
+  width: 543px;
+  height: 333px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: var(--gradient, linear-gradient(136deg, #53893B 0%, #A7DE75 100%));
+  box-shadow: 0px 4px 24px 0px rgba(36, 59, 142, 0.25);
+}
+
+.first-part {
+  position: absolute;
+  margin-top: -334px;
+  margin-left: 10px;
+  width: 426px;
+  height: 254px;
+  transform: rotate(-3.566deg);
+  flex-shrink: 0;
+  border-radius: 4px;
+  box-shadow: 0px 4px 24px 0px rgba(36, 59, 142, 0.25);
+}
+
+.second-part {
+  position: absolute;
+  margin-top: -262px;
+  margin-left: 180px;
+  width: 426px;
+  height: 254px;
+  transform: rotate(4.007deg);
+  flex-shrink: 0;
+  border-radius: 4px;
+
+  box-shadow: 0px 4px 24px 0px rgba(36, 59, 142, 0.25);
+}
